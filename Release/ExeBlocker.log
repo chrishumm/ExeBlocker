@@ -1,0 +1,12 @@
+﻿  main.cpp
+C:\Users\Chris\Downloads\Projects with Source Code\ExeBlocker\ExeBlocker\main.cpp(87,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Chris\Downloads\Projects with Source Code\ExeBlocker\ExeBlocker\main.cpp(224,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Chris\Downloads\Projects with Source Code\ExeBlocker\ExeBlocker\main.cpp(250,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Chris\Downloads\Projects with Source Code\ExeBlocker\ExeBlocker\main.cpp(252,39): warning C4805: '==': unsafe mix of type 'unsigned int' and type 'bool' in operation
+C:\Users\Chris\Downloads\Projects with Source Code\ExeBlocker\ExeBlocker\main.cpp(285,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Chris\Downloads\Projects with Source Code\ExeBlocker\ExeBlocker\main.cpp(313,19): warning C4018: '<': signed/unsigned mismatch
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 296 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  ExeBlocker.vcxproj -> C:\Users\Chris\Downloads\Projects with Source Code\ExeBlocker\Release\ExeBlocker.exe

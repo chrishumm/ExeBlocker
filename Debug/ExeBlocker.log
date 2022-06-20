@@ -1,0 +1,9 @@
+﻿  main.cpp
+c:\users\user\desktop\projects\exeblocker\exeblocker\main.cpp(84): warning C4018: '<': signed/unsigned mismatch
+c:\users\user\desktop\projects\exeblocker\exeblocker\main.cpp(221): warning C4018: '<': signed/unsigned mismatch
+c:\users\user\desktop\projects\exeblocker\exeblocker\main.cpp(247): warning C4018: '<': signed/unsigned mismatch
+c:\users\user\desktop\projects\exeblocker\exeblocker\main.cpp(249): warning C4805: '==': unsafe mix of type 'unsigned int' and type 'bool' in operation
+c:\users\user\desktop\projects\exeblocker\exeblocker\main.cpp(282): warning C4018: '<': signed/unsigned mismatch
+c:\users\user\desktop\projects\exeblocker\exeblocker\main.cpp(310): warning C4018: '<': signed/unsigned mismatch
+  ExeBlocker.vcxproj -> C:\Users\user\Desktop\Projects\ExeBlocker\Debug\ExeBlocker.exe
+  ExeBlocker.vcxproj -> C:\Users\user\Desktop\Projects\ExeBlocker\Debug\ExeBlocker.pdb (Partial PDB)
