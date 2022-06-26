@@ -36,6 +36,8 @@ bool loadFile();
 void displayBlockedExes(void);
 int  main()
 {
+	SetConsoleTitle(("ExeBlocker | Chris Humm"));
+
 	if (loadFile() == false)
 		return 0;
 	displayMenu();
@@ -268,11 +270,28 @@ void saveExes()
 
 	}
 
-void removeExes(void) { system("cls"); }
-void exitProgram(void) { system("cls"); }
+void removeExes(void) 
+{ 
+	system("cls"); 
+	char user_choice = ' ';
+	std::cout << "Remove EXEs TODO. Please exit :)";
+	cout << "\n\n\n\nDo you wish to return to menu? Y/N";
+	menuValidation(&user_choice);
+	if (user_choice == 'y' || user_choice == 'Y')
+	{
+		displayMenu();
+		return;
+	}
+}
+
+void exitProgram(void) 
+{ 
+	exit(0);
+}
 
 void runBlockingExes(void)
 {
+	// implement quitting system
 	system("cls");
 	
 	for (;;)
